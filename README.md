@@ -1,5 +1,5 @@
 # ELCANTORHS!
-[El Cantor HS]https://github.com/azhizhinov/ELCANTORHS/assets/13044908/e57ee6b3-60e7-4ac1-b5dc-5afdb7eb8b42)
+[El Cantor HS](/Pictures/20231122.AZHIZHINOV.ELCANTORHS.00.png)
 
 This is a WIP, you can follow the [Cantor's build guide](https://github.com/diepala/cantor/blob/main/doc/build_guide.md), as it is quite similar!
 

@@ -6,9 +6,9 @@ This is a WIP, you can follow the [Cantor's build guide](https://github.com/diep
 ## Parts
 As for the parts list, you will need:
 - 2x PCB (The left and right half are the same)
-- 43 Chocv1 Keys
-- 43 Chocv1 Keycaps
-- 43 Hotswap sockets for Chocv1 (optional)
+- 44 Chocv1 Keys
+- 44 Chocv1 Keycaps
+- 44 Hotswap sockets for Chocv1 (optional)
 - 2x TRRS jacks (PJ-320A)
 - 2x Blackpill microcontrollers (STM32F401CC)
 

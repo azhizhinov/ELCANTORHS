@@ -1,5 +1,4 @@
-# ELCANTORHS!
-[El Cantor HS](/Pictures/20231122.AZHIZHINOV.ELCANTORHS.00.png)
+![El Cantor HS](/Pictures/20231122.AZHIZHINOV.ELCANTORHS.00.png)
 
 This is a WIP, you can follow the [Cantor's build guide](https://github.com/diepala/cantor/blob/main/doc/build_guide.md), as it is quite similar!
 

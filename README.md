@@ -7,6 +7,7 @@ As for the parts list, you will need
 - 2x PCB (The left and right half are the same)
 - 43 Chocv1 Keys
 - 43 Chocv1 Keycaps
+- 43 Hotswap sockets for Chocv1 (optional)
 - 2x TRRS jacks (PJ-320A)
 - 2x Blackpill microcontrollers (STM32F401CC)
 

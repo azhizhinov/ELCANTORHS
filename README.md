@@ -16,7 +16,7 @@ As for the parts list, you will need:
 You can find the Gerber files needed to order the PCB on the `Gerbers` directory. Look for the .zip of whatever version you would like!
 
 ## Firmware
-Firmware for this keyboard in not in the QMK tree yet. You can find sources in this [branch](https://github.com/azhizhinov/qmk_firmware/tree/elcantorhs-qmk/keyboards/elcantorhs). At this moment you have to compile the firmware yourself.
+Firmware for this keyboard is in the QMK tree. You can find sources in this [path](https://github.com/qmk/qmk_firmware/tree/master/keyboards/elcantorhs). You can see/change the layout [here](https://config.qmk.fm/#/elcantorhs/LAYOUT).
 
 ## Attention
 I'm a hobbyist/amateur at best. So there may be things that aren't optimized. So if you decide to use this, then please be advised that I'm not providing any sort of liability and you should exercise some caution. Use these file for your own risk. Thanks Sebastian Stumpf for this text.
